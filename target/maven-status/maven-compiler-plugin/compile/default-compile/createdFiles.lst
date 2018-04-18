@@ -1,0 +1,8 @@
+pt/ulisboa/tecnico/softeng/bank/dto/ClientDto.class
+pt/ulisboa/tecnico/softeng/bank/Application.class
+pt/ulisboa/tecnico/softeng/bank/dto/BankDto.class
+pt/ulisboa/tecnico/softeng/bank/domain/Client.class
+pt/ulisboa/tecnico/softeng/bank/domain/Bank.class
+pt/ulisboa/tecnico/softeng/bank/exception/BankException.class
+pt/ulisboa/tecnico/softeng/bank/controller/BankController.class
+pt/ulisboa/tecnico/softeng/bank/controller/ClientController.class

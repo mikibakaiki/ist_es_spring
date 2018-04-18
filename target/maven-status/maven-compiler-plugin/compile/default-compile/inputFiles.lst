@@ -1,0 +1,8 @@
+/home/mikibakaiki/github/ES_Aulas/aula-spring/src/main/java/pt/ulisboa/tecnico/softeng/bank/controller/ClientController.java
+/home/mikibakaiki/github/ES_Aulas/aula-spring/src/main/java/pt/ulisboa/tecnico/softeng/bank/domain/Bank.java
+/home/mikibakaiki/github/ES_Aulas/aula-spring/src/main/java/pt/ulisboa/tecnico/softeng/bank/Application.java
+/home/mikibakaiki/github/ES_Aulas/aula-spring/src/main/java/pt/ulisboa/tecnico/softeng/bank/exception/BankException.java
+/home/mikibakaiki/github/ES_Aulas/aula-spring/src/main/java/pt/ulisboa/tecnico/softeng/bank/controller/BankController.java
+/home/mikibakaiki/github/ES_Aulas/aula-spring/src/main/java/pt/ulisboa/tecnico/softeng/bank/dto/ClientDto.java
+/home/mikibakaiki/github/ES_Aulas/aula-spring/src/main/java/pt/ulisboa/tecnico/softeng/bank/domain/Client.java
+/home/mikibakaiki/github/ES_Aulas/aula-spring/src/main/java/pt/ulisboa/tecnico/softeng/bank/dto/BankDto.java
